@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.2.37",
-    "vue-formatted-number-input": "^0.0.406"
+    "vue-formatted-number-input": "^0.1.7"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.1.0",

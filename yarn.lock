@@ -427,10 +427,10 @@ vite@^3.1.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-vue-formatted-number-input@^0.0.406:
-  version "0.0.406"
-  resolved "https://registry.yarnpkg.com/vue-formatted-number-input/-/vue-formatted-number-input-0.0.406.tgz#aacc00be908d1ac324d9c68c5823032af1178ce4"
-  integrity sha512-yaEAdfp9iqJhXjnB6PVJ6Kd3QvdRs1ohqi4pAmGC3ISsyrT0DCPK6AAKpp8wqGJQvP7OyfWFYGHUc1tn7afMEw==
+vue-formatted-number-input@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/vue-formatted-number-input/-/vue-formatted-number-input-0.1.7.tgz#1724df20aa17bbd707ed5b8bf71d6fec6f20b2ff"
+  integrity sha512-JFzQj27VnHMf+rXaAeS7n6J1NdhlIBmaiNxGebka7kYaKhhzIChfNqUVzs/9yc1LM0fjAH/fHlbLW+1K9FJPNA==
   dependencies:
     vue "^3.2.38"
 
